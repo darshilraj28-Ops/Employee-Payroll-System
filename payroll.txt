@@ -1,0 +1,28 @@
+----- Payslip -----
+Employee: E1, Aman
+Overtime: 2000 | Gross: 32000
+PF: 3600 | Tax: 0
+Net Salary: 28400
+-------------------
+
+----- Payslip -----
+Employee: E2, Neha
+Overtime: 0 | Gross: 10000
+PF: 1200 | Tax: 0
+Net Salary: 8800
+-------------------
+
+----- Payslip -----
+Employee: E3, Test
+Overtime: 1000 | Gross: 31000
+PF: 3600 | Tax: 0
+Net Salary: 27400
+-------------------
+
+----- Payslip -----
+Employee: M1, Riya
+Overtime: 1000 | Bonus: 6000 | Gross: 67000
+PF: 7200 | Tax: 6700
+Net Salary: 53100
+-------------------
+
